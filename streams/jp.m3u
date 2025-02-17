@@ -44,3 +44,11 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp",Weathernews (720p)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+#EXTINF:-1 tvg-id="js1",JSport 1
+http://luong.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-id="js2",JSport 2
+http://luong.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-id="js3",JSport 3
+http://luong.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-id="js4",JSport 4
+http://luong.utako.moe/js4/index.m3u8
